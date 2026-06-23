@@ -1,0 +1,40 @@
+{
+  "$schema": "learnquest-ai-docs-content-tracker",
+  "description": "Resumable content tracker for the LearnQuest AI documentation site. The first page/section with status 'pending' is the next thing to write.",
+  "project": "learnquest-ai-docs",
+  "repo": "github.com/aoneahsan/learnquest-ai-docs (PUBLIC)",
+  "createdAt": "2026-06-23",
+  "lastUpdated": "2026-06-23",
+  "docsUrl": "https://learnquest-ai-docs.aoneahsan.com",
+  "appUrl": "https://learnquest.aoneahsan.com",
+  "playId": "com.aoneahsan.learnquest",
+  "buildGates": { "typecheck": "pending-first-install", "build": "pending-first-install" },
+  "baseline": {
+    "status": "complete",
+    "completedAt": "2026-06-23",
+    "summary": "Initial site created from native-update-docs template structure. Branding, config, JSON-LD (WebSite+WebApplication+Organization), llms.txt, robots.txt (AI allowlist), CNAME, dual hosting (Firebase + GitHub Pages), and 15 baseline pages written from the real app feature set with honest framing."
+  },
+  "pages": [
+    { "id": "intro", "title": "Introduction", "status": "complete" },
+    { "id": "getting-started/create-account", "title": "Create an account", "status": "complete" },
+    { "id": "getting-started/quick-start", "title": "Quick Start", "status": "complete" },
+    { "id": "features/activities", "title": "Activities", "status": "complete" },
+    { "id": "features/learning-tools", "title": "Learning Tools (all 50)", "status": "complete" },
+    { "id": "features/gamification", "title": "Gamification", "status": "complete" },
+    { "id": "features/learning-paths", "title": "Learning Paths", "status": "complete" },
+    { "id": "features/social", "title": "Social features", "status": "complete" },
+    { "id": "features/parents", "title": "For Parents", "status": "complete" },
+    { "id": "features/teachers", "title": "For Teachers", "status": "complete" },
+    { "id": "features/offline-and-themes", "title": "Offline, Languages & Themes", "status": "complete" },
+    { "id": "guides/track-progress", "title": "How to track progress", "status": "complete" },
+    { "id": "privacy-and-safety", "title": "Privacy & Child Safety", "status": "complete" },
+    { "id": "faq", "title": "FAQ", "status": "complete" },
+    { "id": "about-the-author", "title": "About the Author", "status": "complete" }
+  ],
+  "futureWork": [
+    "Per-tool deep-dive pages for each of the 50 learning tools (1 page each) to raise per-page SEO uniqueness.",
+    "Screenshots/GIFs of real app screens (user-captured — agent must not fabricate).",
+    "A tutorials section with end-to-end walkthroughs once screenshots exist."
+  ],
+  "resumeInstructions": "1) Read this tracker. 2) Pick the first 'pending' page (or a futureWork item). 3) Write it from REAL app features with honest framing + SEO frontmatter. 4) yarn typecheck && yarn build. 5) Update tracker + ONE commit, pushed to remote 'o'."
+}

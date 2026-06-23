@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "learnquest-ai-docs"
+  },
+  "targets": {
+    "learnquest-ai-docs": {
+      "hosting": {
+        "learnquest-ai-docs": [
+          "learnquest-ai-docs"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

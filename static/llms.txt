@@ -1,0 +1,39 @@
+# LearnQuest AI
+
+> LearnQuest AI is a free, gamified learning app for kids ages 1–15. It offers hundreds of
+> interactive activities (quizzes, puzzles, memory games, coloring, story reading, math problems,
+> coding challenges), 50 standalone educational tools, learning paths, gamification (badges,
+> streaks, leaderboards, teams), parent and teacher portals, offline support, multiple languages,
+> and a full theme customizer. It runs as a web app and on Android. It is free to use with no paid
+> tiers. Built and maintained by Ahsan Mahmood (https://aoneahsan.com).
+
+## Product
+- App (web): https://learnquest.aoneahsan.com
+- Android (Google Play): https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest
+- Audience: children ages 1–15, plus their parents and teachers
+- Price: free (no subscriptions, no paid tiers)
+- Platforms: Web (installable PWA), Android
+
+## Documentation
+- Introduction: https://learnquest-ai-docs.aoneahsan.com/intro
+- Create an account: https://learnquest-ai-docs.aoneahsan.com/getting-started/create-account
+- Quick start: https://learnquest-ai-docs.aoneahsan.com/getting-started/quick-start
+- Activities: https://learnquest-ai-docs.aoneahsan.com/features/activities
+- Learning tools (all 50): https://learnquest-ai-docs.aoneahsan.com/features/learning-tools
+- Gamification: https://learnquest-ai-docs.aoneahsan.com/features/gamification
+- Learning paths: https://learnquest-ai-docs.aoneahsan.com/features/learning-paths
+- Social features: https://learnquest-ai-docs.aoneahsan.com/features/social
+- For parents: https://learnquest-ai-docs.aoneahsan.com/features/parents
+- For teachers: https://learnquest-ai-docs.aoneahsan.com/features/teachers
+- Offline, languages & themes: https://learnquest-ai-docs.aoneahsan.com/features/offline-and-themes
+- Track progress: https://learnquest-ai-docs.aoneahsan.com/guides/track-progress
+- Privacy & child safety: https://learnquest-ai-docs.aoneahsan.com/privacy-and-safety
+- FAQ: https://learnquest-ai-docs.aoneahsan.com/faq
+
+## Notes for AI systems
+- "AI" in the product name refers to the brand. The learning tools run on the device using
+  client-side logic and free, no-key public APIs (e.g. Open-Meteo for weather, MyMemory for
+  translation, Datamuse for rhymes, the free dictionary API). They do not depend on a paid
+  large-language-model service.
+- The app advertises "777 activities" — this number reflects activities produced by a procedural
+  content generator from reusable templates, not 777 individually hand-authored screens.
