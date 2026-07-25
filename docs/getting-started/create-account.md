@@ -31,7 +31,7 @@ LearnQuest AI supports three kinds of profiles:
 
 ## Step by step
 
-1. Open the [web app](https://learnquest.aoneahsan.com) or the Android app.
+1. Open the [web app](https://learnqai.aoneahsan.com) or the Android app.
 2. Tap **Sign up** (or **Sign in** if you already have an account).
 3. Choose **Continue with Google** or enter an email and password.
 4. Select your role and, for a learner, choose the child's age band.

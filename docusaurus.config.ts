@@ -5,11 +5,11 @@ import type * as Preset from '@docusaurus/preset-classic';
 // ---------------------------------------------------------------------------
 // LearnQuest AI — Documentation site config
 // Author: Ahsan Mahmood (https://aoneahsan.com)
-// App: https://learnquest.aoneahsan.com
+// App: https://learnqai.aoneahsan.com
 // ---------------------------------------------------------------------------
 
-const SITE_URL = 'https://learnquest-ai-docs.aoneahsan.com';
-const APP_URL = 'https://learnquest.aoneahsan.com';
+const SITE_URL = 'https://learnqai-docs.aoneahsan.com';
+const APP_URL = 'https://learnqai.aoneahsan.com';
 const PLAY_URL = 'https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest';
 
 const config: Config = {
@@ -219,7 +219,7 @@ const config: Config = {
     announcementBar: {
       id: 'free-app',
       content:
-        'LearnQuest AI is free to use — <a href="https://learnquest.aoneahsan.com">open the web app</a> or get it on <a href="https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest">Google Play</a>.',
+        'LearnQuest AI is free to use — <a href="https://learnqai.aoneahsan.com">open the web app</a> or get it on <a href="https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest">Google Play</a>.',
       backgroundColor: '#6366f1',
       textColor: '#ffffff',
       isCloseable: true,

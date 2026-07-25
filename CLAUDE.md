@@ -3,7 +3,7 @@
 Last Updated: 2026-06-23
 
 Public Docusaurus documentation site for the **LearnQuest AI** app
-(https://learnquest.aoneahsan.com). This repo is **PUBLIC** (free GitHub Pages hosting); the app's
+(https://learnqai.aoneahsan.com). This repo is **PUBLIC** (free GitHub Pages hosting); the app's
 own code repo stays private.
 
 ## Task Speed Over Docs (IRON-SOLID — BEHAVIORAL)
@@ -20,8 +20,8 @@ never let recording outpace the fix. No new summary/status files unless asked. F
 | Package manager | yarn (NEVER npm/pnpm) |
 | Node | >=18 |
 | Author | Ahsan Mahmood (aoneahsan@gmail.com) |
-| Docs URL | https://learnquest-ai-docs.aoneahsan.com (Firebase Hosting target `learnquest-ai-docs` + GitHub Pages) |
-| App | https://learnquest.aoneahsan.com · Play `com.aoneahsan.learnquest` |
+| Docs URL | https://learnqai-docs.aoneahsan.com (Firebase Hosting target `learnquest-ai-docs` + GitHub Pages) |
+| App | https://learnqai.aoneahsan.com · Play `com.aoneahsan.learnquest` |
 | Sibling app repo | `/home/ahsan/Documents/01-code/projects/learnquest-ai/` (PRIVATE) |
 | Content tracker | `docs/tracking/learnquest-ai-docs-content-tracker.json` |
 | Dev ports | start 5962, serve 5963 |
@@ -50,7 +50,7 @@ The agent does NOT run `yarn start`/`serve` (dev servers) or deploy. Verify with
 
 ## Dual hosting
 
-- Firebase: `yarn firebase:deploy` (target `learnquest-ai-docs`, site `learnquest-ai-docs.aoneahsan.com`).
+- Firebase: `yarn firebase:deploy` (target `learnquest-ai-docs`, site `learnqai-docs.aoneahsan.com`).
 - GitHub Pages: `.github/workflows/deploy-pages.yml` (push to main), custom domain via `static/CNAME`.
 
 Both deploys + DNS are USER-ONLY.

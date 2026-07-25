@@ -2,14 +2,14 @@
   "name": "learnquest-ai-docs",
   "version": "0.1.0",
   "private": true,
-  "description": "Public documentation site for LearnQuest AI (https://learnquest.aoneahsan.com), a free gamified learning app for kids ages 1-15. Built with Docusaurus, deployed to Firebase Hosting + GitHub Pages.",
+  "description": "Public documentation site for LearnQuest AI (https://learnqai.aoneahsan.com), a free gamified learning app for kids ages 1-15. Built with Docusaurus, deployed to Firebase Hosting + GitHub Pages.",
   "author": {
     "name": "Ahsan Mahmood",
     "email": "aoneahsan@gmail.com",
     "url": "https://aoneahsan.com"
   },
   "license": "MIT",
-  "homepage": "https://learnquest.aoneahsan.com",
+  "homepage": "https://learnqai-docs.aoneahsan.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aoneahsan/learnquest-ai-docs.git"

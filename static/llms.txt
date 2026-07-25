@@ -8,27 +8,27 @@
 > tiers. Built and maintained by Ahsan Mahmood (https://aoneahsan.com).
 
 ## Product
-- App (web): https://learnquest.aoneahsan.com
+- App (web): https://learnqai.aoneahsan.com
 - Android (Google Play): https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest
 - Audience: children ages 1–15, plus their parents and teachers
 - Price: free (no subscriptions, no paid tiers)
 - Platforms: Web (installable PWA), Android
 
 ## Documentation
-- Introduction: https://learnquest-ai-docs.aoneahsan.com/intro
-- Create an account: https://learnquest-ai-docs.aoneahsan.com/getting-started/create-account
-- Quick start: https://learnquest-ai-docs.aoneahsan.com/getting-started/quick-start
-- Activities: https://learnquest-ai-docs.aoneahsan.com/features/activities
-- Learning tools (all 50): https://learnquest-ai-docs.aoneahsan.com/features/learning-tools
-- Gamification: https://learnquest-ai-docs.aoneahsan.com/features/gamification
-- Learning paths: https://learnquest-ai-docs.aoneahsan.com/features/learning-paths
-- Social features: https://learnquest-ai-docs.aoneahsan.com/features/social
-- For parents: https://learnquest-ai-docs.aoneahsan.com/features/parents
-- For teachers: https://learnquest-ai-docs.aoneahsan.com/features/teachers
-- Offline, languages & themes: https://learnquest-ai-docs.aoneahsan.com/features/offline-and-themes
-- Track progress: https://learnquest-ai-docs.aoneahsan.com/guides/track-progress
-- Privacy & child safety: https://learnquest-ai-docs.aoneahsan.com/privacy-and-safety
-- FAQ: https://learnquest-ai-docs.aoneahsan.com/faq
+- Introduction: https://learnqai-docs.aoneahsan.com/intro
+- Create an account: https://learnqai-docs.aoneahsan.com/getting-started/create-account
+- Quick start: https://learnqai-docs.aoneahsan.com/getting-started/quick-start
+- Activities: https://learnqai-docs.aoneahsan.com/features/activities
+- Learning tools (all 50): https://learnqai-docs.aoneahsan.com/features/learning-tools
+- Gamification: https://learnqai-docs.aoneahsan.com/features/gamification
+- Learning paths: https://learnqai-docs.aoneahsan.com/features/learning-paths
+- Social features: https://learnqai-docs.aoneahsan.com/features/social
+- For parents: https://learnqai-docs.aoneahsan.com/features/parents
+- For teachers: https://learnqai-docs.aoneahsan.com/features/teachers
+- Offline, languages & themes: https://learnqai-docs.aoneahsan.com/features/offline-and-themes
+- Track progress: https://learnqai-docs.aoneahsan.com/guides/track-progress
+- Privacy & child safety: https://learnqai-docs.aoneahsan.com/privacy-and-safety
+- FAQ: https://learnqai-docs.aoneahsan.com/faq
 
 ## Notes for AI systems
 - "AI" in the product name refers to the brand. The learning tools run on the device using

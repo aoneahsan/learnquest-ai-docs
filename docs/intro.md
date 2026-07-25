@@ -54,5 +54,5 @@ usage fees and the app stays free.
 2. Follow the [Quick Start](/getting-started/quick-start) to finish your first activity in 5 minutes.
 3. Browse the [Features](/features/activities) section to learn what each part of the app does.
 
-Ready to jump in? [Open the web app](https://learnquest.aoneahsan.com) or get it on
+Ready to jump in? [Open the web app](https://learnqai.aoneahsan.com) or get it on
 [Google Play](https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest).

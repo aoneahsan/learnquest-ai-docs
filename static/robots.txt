@@ -1,5 +1,5 @@
 # robots.txt — LearnQuest AI Documentation
-# https://learnquest-ai-docs.aoneahsan.com
+# https://learnqai-docs.aoneahsan.com
 
 User-agent: *
 Allow: /
@@ -38,4 +38,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://learnquest-ai-docs.aoneahsan.com/sitemap.xml
+Sitemap: https://learnqai-docs.aoneahsan.com/sitemap.xml

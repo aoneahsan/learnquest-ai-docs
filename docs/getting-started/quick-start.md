@@ -13,7 +13,7 @@ is required beyond a free account.
 
 ## 1. Open the app
 
-Open the [web app](https://learnquest.aoneahsan.com) in any modern browser, or install the Android
+Open the [web app](https://learnqai.aoneahsan.com) in any modern browser, or install the Android
 app from [Google Play](https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest). The
 web app is installable too — your browser may offer an **Install** option for an app-like experience.
 

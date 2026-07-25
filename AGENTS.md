@@ -5,7 +5,7 @@ Last Updated: 2026-06-23
 > AI agent instructions for the LearnQuest AI documentation site. Rules mirror `CLAUDE.md` — keep both in sync.
 
 Public Docusaurus documentation site for the **LearnQuest AI** app
-(https://learnquest.aoneahsan.com). This repo is **PUBLIC**; the app's code repo stays private.
+(https://learnqai.aoneahsan.com). This repo is **PUBLIC**; the app's code repo stays private.
 
 ## Identity
 
@@ -15,8 +15,8 @@ Public Docusaurus documentation site for the **LearnQuest AI** app
 | Type | Docusaurus 3 (classic preset + Mermaid) |
 | Package manager | yarn (NEVER npm/pnpm) |
 | Author | Ahsan Mahmood (aoneahsan@gmail.com) |
-| Docs URL | https://learnquest-ai-docs.aoneahsan.com (Firebase target `learnquest-ai-docs` + GitHub Pages) |
-| App | https://learnquest.aoneahsan.com · Play `com.aoneahsan.learnquest` |
+| Docs URL | https://learnqai-docs.aoneahsan.com (Firebase target `learnquest-ai-docs` + GitHub Pages) |
+| App | https://learnqai.aoneahsan.com · Play `com.aoneahsan.learnquest` |
 | Sibling app repo | `/home/ahsan/Documents/01-code/projects/learnquest-ai/` (PRIVATE) |
 | Content tracker | `docs/tracking/learnquest-ai-docs-content-tracker.json` |
 

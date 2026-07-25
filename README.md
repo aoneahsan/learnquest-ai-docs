@@ -1,10 +1,10 @@
 # LearnQuest AI — Documentation
 
-Public documentation site for **[LearnQuest AI](https://learnquest.aoneahsan.com)**, a free gamified
+Public documentation site for **[LearnQuest AI](https://learnqai.aoneahsan.com)**, a free gamified
 learning app for kids ages 1–15. Built with [Docusaurus](https://docusaurus.io/).
 
-- **Live docs:** https://learnquest-ai-docs.aoneahsan.com
-- **App (web):** https://learnquest.aoneahsan.com
+- **Live docs:** https://learnqai-docs.aoneahsan.com
+- **App (web):** https://learnqai.aoneahsan.com
 - **Google Play:** https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest
 - **Author:** [Ahsan Mahmood](https://aoneahsan.com)
 
@@ -26,7 +26,7 @@ The site deploys to both **Firebase Hosting** and **GitHub Pages**:
 
 - **Firebase:** `yarn firebase:deploy` (target `learnquest-ai-docs`). Requires Firebase CLI auth.
 - **GitHub Pages:** the `.github/workflows/deploy-pages.yml` workflow builds and deploys on push to
-  `main`. Custom domain is set in `static/CNAME` (`learnquest-ai-docs.aoneahsan.com`).
+  `main`. Custom domain is set in `static/CNAME` (`learnqai-docs.aoneahsan.com`).
 
 Both are user-only steps (they require account access / DNS).
 

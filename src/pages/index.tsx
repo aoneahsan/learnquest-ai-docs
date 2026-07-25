@@ -6,7 +6,7 @@ import Layout from '@theme/Layout';
 
 import styles from './index.module.css';
 
-const APP_URL = 'https://learnquest.aoneahsan.com';
+const APP_URL = 'https://learnqai.aoneahsan.com';
 const PLAY_URL = 'https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest';
 
 type Feature = {

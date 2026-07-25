@@ -27,7 +27,7 @@ Full-stack & mobile developer — React, Capacitor, Firebase, and more.
 
 ## The product
 
-- **LearnQuest AI app:** [learnquest.aoneahsan.com](https://learnquest.aoneahsan.com)
+- **LearnQuest AI app:** [learnqai.aoneahsan.com](https://learnqai.aoneahsan.com)
 - **Google Play:** [LearnQuest AI](https://play.google.com/store/apps/details?id=com.aoneahsan.learnquest)
 - **This documentation:** built with Docusaurus and hosted on Firebase Hosting and GitHub Pages.
 

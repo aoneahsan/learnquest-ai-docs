@@ -5,8 +5,8 @@
   "repo": "github.com/aoneahsan/learnquest-ai-docs (PUBLIC)",
   "createdAt": "2026-06-23",
   "lastUpdated": "2026-06-23",
-  "docsUrl": "https://learnquest-ai-docs.aoneahsan.com",
-  "appUrl": "https://learnquest.aoneahsan.com",
+  "docsUrl": "https://learnqai-docs.aoneahsan.com",
+  "appUrl": "https://learnqai.aoneahsan.com",
   "playId": "com.aoneahsan.learnquest",
   "buildGates": { "typecheck": "pending-first-install", "build": "pending-first-install" },
   "baseline": {

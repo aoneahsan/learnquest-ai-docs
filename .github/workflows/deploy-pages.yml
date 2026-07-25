@@ -3,7 +3,7 @@
 #
 # Dual hosting: this site is ALSO deployable to Firebase Hosting
 # (`yarn firebase:deploy`). GitHub Pages serves the custom domain set in
-# static/CNAME (learnquest-ai-docs.aoneahsan.com).
+# static/CNAME (learnqai-docs.aoneahsan.com).
 #
 # To enable: repo Settings → Pages → Source = "GitHub Actions". DNS: point a
 # CNAME record for learnquest-ai-docs → aoneahsan.github.io.
