@@ -1,6 +1,6 @@
 # CLAUDE.md — learnquest-ai-docs
 
-Last Updated: 2026-06-23
+Last Updated: 2026-10-20
 
 Public Docusaurus documentation site for the **LearnQuest AI** app
 (https://learnqai.aoneahsan.com). This repo is **PUBLIC** (free GitHub Pages hosting); the app's
@@ -85,3 +85,9 @@ proceeding skill-less. (Owner directive 2026-07-11; full text in `~/.claude/CLAU
 Global records (rules, policy, audit reports) live in the `ahsan-notebook` repo at
 `static/assets/claude-code/`; the `~/.claude/…` paths are symlinks into it. Full text: `~/.claude/CLAUDE.md`.
 (Owner directives 2026-07-11 / 2026-07-14; fleet-rolled 2026-07-16.)
+
+## Stop-work Git gate
+
+<!-- RULE:stop-work-git-gate v2026-10-20 -->
+
+Before stopping, commit every legitimate change and work-progress checkpoint in this repository and each independent nested repository, fetch and merge the designated upstream, push the documented working branch, then verify an empty worktree and `0 0` ahead/behind. Never stash, discard, reset, rebase, or force-push. If synchronization is blocked, report the exact repository, branch, blocker, and next action instead of calling the work complete. The full workflow remains authoritative in `~/.claude/rules/git-workflow.md`.
