@@ -1,3 +1,5 @@
+> ✅ **Reopened 2026-10-30** — the owner typed `REOPEN LEARNQUEST FOR REDEVELOPMENT`. This freeze record is history; the rebuild runs in the private `learnquest-root` kit.
+
 # FROZEN — learnquest-ai
 
 ## 🔴 CRITICAL — PROJECT FROZEN
