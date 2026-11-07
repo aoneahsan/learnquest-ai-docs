@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LearnQuest AI — free learning app for kids">
+  <defs>
+    <linearGradient id="lq-bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#312e81"/>
+      <stop offset="1" stop-color="#831843"/>
+    </linearGradient>
+    <linearGradient id="lq-badge" x1="80" y1="220" x2="200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#lq-bg)"/>
+  <g transform="translate(80,210)">
+    <rect width="150" height="150" rx="32" fill="url(#lq-badge)"/>
+    <path d="M75 40 L120 60 L75 80 L30 60 Z" fill="#ffffff"/>
+    <path d="M48 70 L48 95 C48 103 60 110 75 110 C90 110 102 103 102 95 L102 70 L75 80 Z" fill="#ffffff" opacity="0.85"/>
+  </g>
+  <text x="270" y="285" font-family="Inter, system-ui, sans-serif" font-size="78" font-weight="800" fill="#ffffff">LearnQuest AI</text>
+  <text x="272" y="350" font-family="Inter, system-ui, sans-serif" font-size="34" fill="#e9d5ff">Free learning activities, games &amp; tools</text>
+  <text x="272" y="398" font-family="Inter, system-ui, sans-serif" font-size="34" fill="#e9d5ff">for kids ages 1–15</text>
+  <text x="80" y="560" font-family="Inter, system-ui, sans-serif" font-size="28" fill="#c7d2fe">learnquest.aoneahsan.com · by Ahsan Mahmood</text>
+</svg>

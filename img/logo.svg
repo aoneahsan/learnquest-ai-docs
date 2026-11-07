@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LearnQuest AI logo">
+  <defs>
+    <linearGradient id="lq-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#lq-grad)"/>
+  <path d="M32 18 L50 26 L32 34 L14 26 Z" fill="#ffffff"/>
+  <path d="M22 30 L22 40 C22 43 27 46 32 46 C37 46 42 43 42 40 L42 30 L32 34 Z" fill="#ffffff" opacity="0.85"/>
+  <path d="M50 26 L50 38" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="50" cy="40" r="2.6" fill="#ffffff"/>
+</svg>
