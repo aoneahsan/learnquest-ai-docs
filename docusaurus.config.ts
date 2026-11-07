@@ -31,10 +31,6 @@ const config: Config = {
   // structured entity data when citing this documentation.
   headTags: [
     {
-      tagName: 'link',
-      attributes: { rel: 'canonical', href: `${SITE_URL}/` },
-    },
-    {
       tagName: 'meta',
       attributes: { name: 'application-name', content: 'LearnQuest AI Docs' },
     },
