@@ -146,6 +146,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/social-card.svg',
     metadata: [
+      { name: 'yandex-verification', content: 'bfb02722189028cf' },
       { name: 'description', content: 'Documentation for LearnQuest AI — a free gamified learning app with hundreds of activities, 50 educational tools, and parent/teacher portals for kids ages 1–15.' },
       { name: 'keywords', content: 'learnquest ai, kids learning app, educational games for kids, free learning activities, learning tools, kids education, gamified learning, parent dashboard, teacher dashboard, math games, reading games, learning paths, ages 1-15' },
       { name: 'author', content: 'Ahsan Mahmood' },
