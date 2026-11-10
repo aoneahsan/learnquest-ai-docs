@@ -34,15 +34,11 @@ yarn typecheck    # tsc --noEmit
 yarn serve        # preview the built site (port 5963)
 ```
 
-## Hosting (dual)
+## Hosting
 
-The site deploys to both **Firebase Hosting** and **GitHub Pages**:
-
-- **Firebase:** `yarn firebase:deploy` (target `learnquest-ai-docs`). Requires Firebase CLI auth.
-- **GitHub Pages:** the `.github/workflows/deploy-pages.yml` workflow builds and deploys on push to
-  `main`. Custom domain is set in `static/CNAME` (`learnqai-docs.aoneahsan.com`).
-
-Both are user-only steps (they require account access / DNS).
+GitHub Pages serves the `gh-pages` branch at `learnqai-docs.aoneahsan.com` (`static/CNAME`, `static/.nojekyll`).
+Run `yarn typecheck` and `yarn build`, check the built site, then push the `build/` tree to `gh-pages` with an
+ordinary push. There is no GitHub Actions workflow and no Firebase hosting.
 
 ## Structure
 
@@ -52,7 +48,6 @@ src/                  Homepage + theme CSS
 static/               robots.txt, llms.txt, CNAME, brand SVG assets
 docusaurus.config.ts  Site config (SEO head tags + JSON-LD, navbar, footer)
 sidebars.ts           Sidebar layout
-firebase.json         Firebase Hosting config (+ headers)
 ```
 
 ## License
